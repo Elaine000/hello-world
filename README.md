@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans!
+
+Elaine000 here.
